@@ -26,10 +26,11 @@ img {
 .plant {
   height: auto;
   width: 200px;
+  justify-content: center;
+  text-align: center;
 }
 
 .text {
-  text-align: center;
   flex-wrap: wrap;
 }
 /* do not edit this footer */
