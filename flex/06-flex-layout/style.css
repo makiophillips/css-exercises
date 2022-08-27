@@ -29,4 +29,6 @@ input {
 a {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  /* this removes the line under our links */
+  text-decoration: none;
 }
